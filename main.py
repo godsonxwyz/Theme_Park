@@ -1,5 +1,5 @@
 
-print('Welcome to XWYZ Park, the world of rollercosters!')
+print('Welcome to XWYZ Python Park, the world of rollercosters!')
 height = int(input("What is your height in cm? "))
 
 if height < 120:
